@@ -9,4 +9,4 @@ On September 16th, 2019, Jay Chou finally released his new song __Won't Cry__ wi
 
 The song 'Won’t Cry' —  a collaboration with Mayday's Ashin — was released at 11pm on Monday. It quickly reached 300,000 views on YouTube in 30 minutes.
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/HK7SPnGSxLM)](https://youtu.be/HK7SPnGSxLM)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/https://youtu.be/HK7SPnGSxLM/0.jpg)](https://youtu.be/HK7SPnGSxLM)
