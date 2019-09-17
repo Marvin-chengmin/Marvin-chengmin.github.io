@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+UBC MDS Student
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Math, Music and Marvin Min
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[marvin.cmin@gmail.com](marvin:marvin.cmin@gmail.com)
