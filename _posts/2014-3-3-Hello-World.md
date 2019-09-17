@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Jay Chou's New Song!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+On September 16th, 2019, Jay Chou finally released his new song __Won't Cry__ with a new MV.
 
+<img src="http://149.28.76.153/upload/20190917/1568687543.89.jpeg" width="250">
 ![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
