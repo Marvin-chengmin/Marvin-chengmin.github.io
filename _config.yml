@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Marvin (Cheng Min)
+name: Marvin
 
 # Short bio or description (displayed in the header)
-description: New song of Jay Chou
+description: UBC MDS Student
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://149.28.76.153/upload/20190917/1568687543.89.jpeg
+avatar: https://avatars.github.ubc.ca/u/1844?s=400&u=0756f44e343dc70f18a8906fabe28a84cf61feb7
 
 #
 # Flags below are optional
@@ -34,7 +34,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:M&M
+disqus: M&M
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
