@@ -9,7 +9,7 @@ Based on your experience, you assume the chance of the thunder storm is only 40%
 
 After two lectures in the morning, you are heading to the cafeteria with your classmates at 12:00 pm. Suddenly, you look up in the sky and realize it is overcast now. The probability of having that thunder storm increases in your mind to 60%. 
 
-Now, we have P(TS |Overcast at 12)=0.6 called conditional probability. It means the chance of the thunder storm at 5:00 pm is 60%, given the condition of being overcast at 12:00 pm.
+Now, we have P(TS | Overcast at 12)=0.6 called conditional probability. It means the chance of the thunder storm at 5:00 pm is 60%, given the condition of being overcast at 12:00 pm.
 
 After finishing your lab at 4:00 pm, you look through the window and recognize that there are a lot of dark clouds in the sky. At this moment, you surely adjust the probability of having the thunder storm to 80% by setting P(TS | Dark clouds at 4)=0.8. 
 
